@@ -26,7 +26,7 @@
                 "database": "WideWorldImporters"
               },
               "externalReferences": {
-                "connection": "3d3494ad-e86a-4e97-ba8a-c480d9e7ed3b"
+                "connection": "0fbfe601-8c83-417f-b752-bf376a55bc88"
               }
             }
           },
@@ -52,7 +52,7 @@
                 "database": "controlDB"
               },
               "externalReferences": {
-                "connection": "1328e953-df7f-40a0-8315-4b80fbffcf17"
+                "connection": "c7da6891-cb24-4a2f-a2d8-363f85ecc4fa"
               }
             }
           },
@@ -296,7 +296,7 @@
                 "database": "controlDB"
               },
               "externalReferences": {
-                "connection": "1328e953-df7f-40a0-8315-4b80fbffcf17"
+                "connection": "c7da6891-cb24-4a2f-a2d8-363f85ecc4fa"
               }
             }
           },
@@ -324,7 +324,7 @@
                 "database": "controlDB"
               },
               "externalReferences": {
-                "connection": "1328e953-df7f-40a0-8315-4b80fbffcf17"
+                "connection": "c7da6891-cb24-4a2f-a2d8-363f85ecc4fa"
               }
             }
           },
@@ -538,7 +538,7 @@
               "database": "WideWorldImporters"
             },
             "externalReferences": {
-              "connection": "3d3494ad-e86a-4e97-ba8a-c480d9e7ed3b"
+              "connection": "0fbfe601-8c83-417f-b752-bf376a55bc88"
             }
           }
         }
@@ -620,7 +620,7 @@
                 "database": "controlDB"
               },
               "externalReferences": {
-                "connection": "1328e953-df7f-40a0-8315-4b80fbffcf17"
+                "connection": "c7da6891-cb24-4a2f-a2d8-363f85ecc4fa"
               }
             }
           ]
@@ -669,7 +669,7 @@
           "database": "controlDB"
         },
         "externalReferences": {
-          "connection": "1328e953-df7f-40a0-8315-4b80fbffcf17"
+          "connection": "c7da6891-cb24-4a2f-a2d8-363f85ecc4fa"
         }
       },
       {
@@ -718,7 +718,7 @@
           "database": "controlDB"
         },
         "externalReferences": {
-          "connection": "1328e953-df7f-40a0-8315-4b80fbffcf17"
+          "connection": "c7da6891-cb24-4a2f-a2d8-363f85ecc4fa"
         }
       }
     ],
