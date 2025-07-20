@@ -782,7 +782,7 @@
       },
       "GoldDWEndpoint": {
         "type": "string",
-        "defaultValue": "2ipjetq4tn6elkixc3xundvzbi-u4ai3dmkby5u5daorxfpvr5n5q.datawarehouse.fabric.microsoft.com"
+        "defaultValue": "vxuksp7bmegenfuklaa4rjvij4-3v4ifldulymufjq7y3izrfev3q.datawarehouse.fabric.microsoft.com"
       }
     },
     "variables": {
