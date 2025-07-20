@@ -130,8 +130,8 @@
       "type": "Eventhouse",
       "properties": {
         "dataIngestionMode": "ProcessedIngestion",
-        "workspaceId": "ac8278dd-5e74-4219-a61f-c6d1989495dc",
-        "itemId": "0e16c4ef-9ad8-488a-947c-9f618815a8da",
+        "workspaceId": "00000000-0000-0000-0000-000000000000",
+        "itemId": "b22b1edd-6292-97ea-4089-fe9314ea1177",
         "databaseName": "kdb_fabricEvents",
         "tableName": "storageEvents",
         "inputSerialization": {
@@ -234,8 +234,8 @@
       "type": "Eventhouse",
       "properties": {
         "dataIngestionMode": "ProcessedIngestion",
-        "workspaceId": "ac8278dd-5e74-4219-a61f-c6d1989495dc",
-        "itemId": "0e16c4ef-9ad8-488a-947c-9f618815a8da",
+        "workspaceId": "00000000-0000-0000-0000-000000000000",
+        "itemId": "b22b1edd-6292-97ea-4089-fe9314ea1177",
         "databaseName": "kdb_fabricEvents",
         "tableName": "workspaceEvents",
         "inputSerialization": {
@@ -338,8 +338,8 @@
       "type": "Eventhouse",
       "properties": {
         "dataIngestionMode": "ProcessedIngestion",
-        "workspaceId": "ac8278dd-5e74-4219-a61f-c6d1989495dc",
-        "itemId": "0e16c4ef-9ad8-488a-947c-9f618815a8da",
+        "workspaceId": "00000000-0000-0000-0000-000000000000",
+        "itemId": "b22b1edd-6292-97ea-4089-fe9314ea1177",
         "databaseName": "kdb_fabricEvents",
         "tableName": "jobEvents",
         "inputSerialization": {
